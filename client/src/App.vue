@@ -1,5 +1,5 @@
 <template>
-  <div>NetJot!</div>
+  <div class="text-center text-blue-500 font-sans text-3xl">NetJot!</div>
 </template>
 
 <script>
@@ -15,11 +15,5 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-div {
-  font-family: sans-serif;
-  color: blue;
-  text-align: center;
-  font-size: 1.5em;
 }
 </style>
